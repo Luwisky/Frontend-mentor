@@ -102,7 +102,7 @@ body{
     width: 88px;
     height: 88px;
     margin-bottom: 20px;
-    border-radius: 50;
+    border-radius: 50%;
 }
 .list-item:hover{
     background: var(--clr-primary-Green);
