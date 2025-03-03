@@ -99,9 +99,10 @@ body{
 }
 
 .user-image{
-    width: 10em;
-    margin-bottom: 1.5rem;
-    border-radius: 50%;
+    width: 88px;
+    height: 88px;
+    margin-bottom: 20px;
+    border-radius: 50;
 }
 .list-item:hover{
     background: var(--clr-primary-Green);
